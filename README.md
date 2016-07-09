@@ -6,6 +6,5 @@ Creates a new string by concatenating enough leading zero-width pad characters t
 
 ```
 var zwpad = require("zwpad")
-var str = zwpad("a", 140)
-// => 
+var str = zwpad("a", 5)
 ```
