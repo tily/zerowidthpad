@@ -1,0 +1,11 @@
+{
+  "name": "zwpad",
+  "version": "0.0.0",
+  "description": "Creates a new string by concatenating enough leading zero-width pad characters to an original string to achieve a specified total length.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tily <tidnlyam@gmail.com>",
+  "license": "ISC"
+}
